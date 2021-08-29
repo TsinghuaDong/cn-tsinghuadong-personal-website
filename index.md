@@ -2,52 +2,44 @@
 layout: default
 ---
 
-# About Me
+# 个人简介
 
 * * *
 
-I am an Assistant Research Professor (or Assistant Researcher, 助理研究员 in Chinese) at [Prof. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/) in the Institute for Network Sciences and Cyberspace (INSC), Tsinghua University. I was born in Hebei, China and received my bachelor (2013) degree from Harbin Institute of Technology, Harbin, China, and my Ph.D. (2019) degree from Tsinghua University, Beijing, China (supervisor: Prof. Mingwei Xu). Prior to joining the INSC, I worked with Prof. Mingwei Xu as a postdoctoral researcher at the [Routing Group](http://routing.netlab.edu.cn/) in the Department of Computer Science & Technology, Tsinghua University until July 2021. I was a visiting Ph.D. student at the University of Göttingen (host: Prof. Xiaoming Fu) between 2016 to 2017.
+董恩焕，男，汉族，博士，清华大学网络科学与网络空间研究院助理研究员（[杨家海教授团队](http://nmgroup.tsinghua.edu.cn/yjh/)）。
+1990年出生于河北省，2013年本科毕业于哈尔滨工业大学计算机科学与技术学院，2019年博士毕业于清华大学计算机科学与技术系（导师：[徐明伟教授](http://routing.netlab.edu.cn/)），2021年7月于清华大学计算机科学与技术系博士后出站（合作导师：[徐明伟教授](http://routing.netlab.edu.cn/)）。
+2016年公派赴德，在哥廷根大学作访问学生（导师：Prof. Xiaoming Fu）。
 
-My research interests include network management, network measurement and network transport optimization.
+**研究兴趣**：网络管理、网络测量和网络传输优化。
 
-**Email**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
+**邮箱**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
-**To Students**: Our group is looking for Ph.D. students, Master students and undergraduate students to join us. If interested, please contact [Prof. Jiahai Yang](http://nmgroup.tsinghua.edu.cn/yjh/) or me with your resume.
+**招生公告**: 我们的团队正在寻找博士生、硕士生和本科生加入我们。感兴趣的同学请联系团队负责人[杨家海教授](http://nmgroup.tsinghua.edu.cn/yjh/)。
 
-[中文版个人主页 \| Chinese Version of My Homepage](./cn.html)
+[英文版个人主页 \| English Version of My Homepage](https://tsinghuadong.github.io/)
 
-# Education
-
-* * *
-
-- **Ph.D., Tsinghua University**
-  - 2013-9 to 2019-7
-  - Department of Computer Science & Technology
-  - Supervisor: Prof. Dr. Mingwei Xu
-- **Visiting Ph.D., University of Göttingen**
-  - 2016-9 to 2017-9
-  - Institute of Computer Science
-  - Supervisor: Prof. Dr. Xiaoming Fu
-- **B.E., Harbin Institute of Technology (HIT)**
-  - 2009-8 to 2013-7
-  - Department of Computer Science & Engineering
-  - Overall GPA:93.43/100
-
-# Work
+# 教育经历
 
 * * *
 
-- **Assistant Research Professor, Tsinghua University**
-  - 2021-7 - Present
-  - Institute for Network Sciences and Cyberspace
-  - [Prof. Dr. Jiahai Yang's group](http://nmgroup.tsinghua.edu.cn/yjh/)
+- **博士，清华大学**
+  - 2013-9至2019-7；计算机科学与技术系；导师：徐明伟教授
+- **访问学生，哥廷根大学**
+  - 2016-9至2017-9；计算机科学系；导师：Prof. Dr. Xiaoming Fu
+- **学士，哈尔滨工业大学**
+  - 2009-8至2013-7；计算机科学与工程系；学分绩：93.43/100
 
-- **Postdoctoral Researcher, Tsinghua University**
-  - 2019-7 - 2021-7
-  - Department of Computer Science & Technology
-  - [Prof. Dr. Mingwei Xu's group](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu)
+# 工作经历
 
-# Publications
+* * *
+
+- **助理研究员，清华大学**
+  - 2021-7至今；网络科学与网络空间研究院；[杨家海教授团队](http://nmgroup.tsinghua.edu.cn/yjh/)
+
+- **博士后，清华大学**
+  - 2019-7至2021-7；计算机科学与技术系；[徐明伟教授团队](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu)
+
+# 论文发表情况
 
 * * *
 
@@ -60,20 +52,20 @@ My research interests include network management, network measurement and networ
 - **Enhuan Dong**; Mingwei Xu; Xiaoming Fu; Yu Cao; LAMPS: A Loss Aware Scheduler for Multipath TCP over Highly Lossy Networks, IEEE Conference on Local Computer Networks (LCN, CCF C), Singapore, 2017-10-9 to 2017-10-12.
 - Yu Cao; Mingwei Xu; Xiaoming Fu; **Enhuan Dong**; Explicit Multipath Congestion Control for Data Center Networks, ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT, TH-CPL A, CCF B), Santa Barbara, 2013-12-9 to 2013-12-12.
 
-# Honors and Awards
+# 获奖情况
 
 * * *
 
-- ACM SIGCOMM Networking Systems Award (52/58), ACM SIGCOMM, 2019-8. [Announcement Link](https://www.sigcomm.org/content/sigcomm-networking-systems-award).
-- Excellent Ph.D. Graduate in Department of CST, THU, 2019.
-- IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [Announcement Link](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
-- China Scholarship Council (CSC) Scholarship, Joint Ph.D. Study, 2016.
-- HIT Undergraduate Excellent Graduation Thesis, 2013.
-- COMAP's Mathematical Contest in Modeling (MCM), Meritorious Winner, 2012.
-- National Student Information Security Competition, First Prize, 2012.
-- National Scholarship, 2010/2012.
+- ACM SIGCOMM Networking Systems Award (52/58), ACM SIGCOMM, 2019-8. [公告链接](https://www.sigcomm.org/content/sigcomm-networking-systems-award).
+- 清华大学计算机科学与技术系优秀毕业生，清华大学，2019.
+- IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [公告链接](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
+- 国家留学基金，联合培养博士研究生，2016.
+- 哈尔滨工业大学本科生优秀毕业设计（论文），2013.
+- 美国大学生数学建模竞赛，一等奖，2012.
+- 全国大学生信息安全竞赛，一等奖，2012.
+- 国家奖学金，2010/2012.
 
-# Patents
+# 专利情况
 
 * * *
 
@@ -82,11 +74,11 @@ My research interests include network management, network measurement and networ
 - Mingwei Xu, Nan Geng, Yuan Yang, and **Enhuan Dong**. Method and System for Implementing L3VPN based on Two-dimensional Routing Protocol: USA, No.17/249,432. 申请日：2021年3月2日。
 - 徐明伟；张佳；**董恩焕**；孟子立；杨芫。针对移动Web服务的自适应传输协议选择方法和装置，202011444788.7。申请日：2020-12-08。
 
-# Professional Activities
+# 学术工作
 
 * * *
 
-### Journal/Magazine Reviewer
+### 期刊/杂志审稿人
 
 - IEEE/ACM Transactions on Networking (TON)
 - IEEE Journal on Selected Areas in Communications (JSAC)
@@ -95,27 +87,29 @@ My research interests include network management, network measurement and networ
 - IEEE Network
 - IEEE Communications Letters
 
-### Conference Reviewer
+### 会议审稿人
 
 - IEEE International Conference on Computer Communications (INFOCOM), 2018
 - IEEE International Conference on Network Protocols (ICNP), 2017
 
-# Teaching
+# 教学工作
 
 * * *
 
-- **Teaching Assistant, Tsinghua University**
-  - Computer Network Architecture; 2015 Fall
-  - Network Principle; 2014 Fall
-  - Network Topic Training;  2013 Fall, 2014 Spring, 2015 Spring
+- **助教，清华大学**
+  - 计算机网络体系结构；2015年秋
+  - 网络原理；2014年秋
+  - 网络专题训练；2013年秋，2014年春，2015年春
 
-- **Teaching Assistant, University of Göttingen**
-  - Seminar on Internet Technologies; 2016 Fall, 2017 Spring
+- **助教，哥廷根大学**
+  - 互联网技术研讨会；2016年秋，2017年春
 
-# Useful Links
+# 相关链接
 
 * * *
 
-- [Top Conferences in Computer Science](http://csrankings.org/#/index?all&world) (CSRankings)
-- [Conference and Journal Ranking by Chinese Computer Federation](https://www.ccf.org.cn/Academic_Evaluation/By_category/) (CCF)
-- [Conference and Journal Ranking by Department of Computer Science and Technology, Tsinghua University](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) (TH-CPL)
+- [计算机科学顶级会议](http://csrankings.org/#/index?all&world) (CSRankings)
+- [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/) (CCF)
+- [清华大学计算机学科群推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) (TH-CPL)
+
+
