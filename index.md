@@ -34,7 +34,7 @@ layout: default
 * * *
 
 - **助理研究员，清华大学**
-  - 2021-7至今；网络科学与网络空间研究院；[杨家海教授团队](http://nmgroup.tsinghua.edu.cn/yjh/)
+  - 2021-8至今；网络科学与网络空间研究院；[杨家海教授团队](http://nmgroup.tsinghua.edu.cn/yjh/)
 
 - **博士后，清华大学**
   - 2019-7至2021-7；计算机科学与技术系；[徐明伟教授团队](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu)
