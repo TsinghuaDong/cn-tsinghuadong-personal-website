@@ -16,7 +16,7 @@ layout: default
 
 **招生公告**: 我们的团队正在寻找博士生、硕士生和本科生加入我们。感兴趣的同学请联系团队负责人[杨家海教授](http://nmgroup.tsinghua.edu.cn/yjh/)。
 
-[英文版个人主页 \| English Version of My Homepage](https://tsinghuadong.github.io/)
+[英文版个人主页 \| English Homepage](https://tsinghuadong.github.io/)
 
 # 教育经历
 
