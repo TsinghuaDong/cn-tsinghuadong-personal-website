@@ -54,7 +54,7 @@ layout: default
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; DCMPTCP: Host-based Load Balancing for Datacenters, IEEE International Conference on Distributed Computing Systems (ICDCS, TH-CPL B, CCF B), Vienna, 2018-7-2 to 2018-7-5.
 - Yu Cao; Mingwei Xu; Xiaoming Fu; **Enhuan Dong**; Explicit Multipath Congestion Control for Data Center Networks, ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT, TH-CPL A, CCF B), Santa Barbara, California, USA, 2013-12-9 to 2013-12-12.
 
-# 获奖情况
+# 部分获奖情况
 
 * * *
 
@@ -74,7 +74,6 @@ layout: default
 
 - **学会委员会委员**
   - 中国指挥与控制学会网络空间测绘专业委员会委员
-
 
 - **学术会议程序委员会委员**
   - [International Conference on Network of the Future] (https://nof.dnac.org/tpc/) (NoF), 2023
