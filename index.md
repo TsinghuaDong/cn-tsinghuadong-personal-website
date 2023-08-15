@@ -16,7 +16,7 @@ layout: default
 
 **招生公告**: 我们的团队正在寻找博士生、硕士生和本科生加入我们。感兴趣的同学请联系团队负责人[杨家海教授](http://nmgroup.tsinghua.edu.cn/yjh/)。
 
-[英文版个人主页](https://tsinghuadong.github.io/)
+[英文版个人主页](https://tsinghuadong.github.io/)，[谷歌学术主页](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en)
 
 # 教育经历
 
@@ -39,7 +39,7 @@ layout: default
 - **博士后，清华大学**
   - 2019-7至2021-7；计算机科学与技术系；[徐明伟教授团队](http://routing.netlab.edu.cn/tiki-index.php?page=Mingwei+Xu)
 
-# 部分论文发表情况([Google Scholar](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en))
+# 部分论文发表情况
 
 * * *
 
@@ -76,7 +76,7 @@ layout: default
   - 中国指挥与控制学会网络空间测绘专业委员会委员
 
 - **学术会议程序委员会委员**
-  - [International Conference on Network of the Future] (https://nof.dnac.org/tpc/) (NoF), 2023
+  - [International Conference on Network of the Future](https://nof.dnac.org/tpc/) (NoF), 2023
 
 - **期刊/杂志审稿人**
   - IEEE/ACM Transactions on Networking (TON)
