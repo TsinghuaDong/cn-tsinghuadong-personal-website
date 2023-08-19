@@ -10,13 +10,13 @@ layout: default
 1990年出生于河北省，2013年本科毕业于哈尔滨工业大学计算机科学与技术学院，2019年博士毕业于清华大学计算机科学与技术系（导师：[徐明伟教授](http://routing.netlab.edu.cn/)），2021年7月于清华大学计算机科学与技术系博士后出站（合作导师：[徐明伟教授](http://routing.netlab.edu.cn/)）。
 2016年公派赴德，在哥廷根大学作访问学生（导师：Prof. Xiaoming Fu）。
 
-**研究兴趣**：网络空间安全态势感知、网络空间测绘与抗测绘、网络运维、网络传送。
+**研究兴趣**：网络空间安全态势感知、网络空间测绘与抗测绘、网络运维、网络端到端传送。
 
 **邮箱**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
 **招生公告**: 我们的团队正在寻找博士生、硕士生和本科生加入我们。感兴趣的同学请联系团队负责人[杨家海教授](http://nmgroup.tsinghua.edu.cn/yjh/)。
 
-**个人主页**: [英文版个人主页](https://tsinghuadong.github.io/)，[谷歌学术主页](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en), [清华网研院个人主页](https://www.insc.tsinghua.edu.cn/info/1157/2447.htm)
+**个人主页**: [英文版个人主页](https://tsinghuadong.github.io/)，[谷歌学术主页](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en)，[清华网研院个人主页](https://www.insc.tsinghua.edu.cn/info/1157/2447.htm)
 
 # 教育经历
 
