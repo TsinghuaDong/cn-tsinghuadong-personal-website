@@ -43,10 +43,10 @@ layout: default
 
 * * *
 
+- **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, available online.
 - Jia Zhang; Yixuan Zhang; **Enhuan Dong**; Yan Zhang; Shaorui Ren; Zili Meng; Mingwei Xu; Xiaotian Li; Zongzhi Hou; Zhicheng Yang; Xiaoming Fu; Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX Annual Technical Conference (USENIX ATC, TH-CPL A, CCF A), Boston, MA, USA, 2023-7-10 to 2023-7-12.
 - Renjie Xie; Jiahao Cao; **Enhuan Dong**; Mingwei Xu; Kun Sun; Qi Li; Licheng Shen; Menghao Zhang; Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation, USENIX Security Symposium (USENIX Security, TH-CPL A, CCF A), Anaheim, CA, USA, 2023-8-9 to 2023-8-11.
 - Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, available online.
-- Linna Fan; Lin He; **Enhuan Dong**; Jiahai Yang; Chenglong Li; Jinlei Lin; Zhiliang Wang; EvoIoT: An Evolutionary IoT and Non-IoT Classification Model in Open Environments, Elsevier Computer Networks (COMNET, TH-CPL B, CCF B), 2022, available online.
 - Jia Zhang; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, The Web Conference (WWW, TH-CPL A, CCF A), Virtual Edition, 2021-4-19 to 2021-4-23.
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; Low-Cost Datacenter Load Balancing with Multipath Transport and Top-of-Rack Switches, IEEE Transactions on Parallel and Distributed Systems (TPDS, TH-CPL A, CCF A), 2020, 31(10): 2232-2247.
 - 李星; Geoff Huston; 徐明伟; 杨芫; **董恩焕**; 李崇荣; 张海懿; 姚健康; 互联网十年发展回顾（2008-2018）, CCF 2018-2019 中国计算机科学技术发展报告, 2019.
@@ -58,7 +58,8 @@ layout: default
 
 * * *
 
-- 中国通信学会科学技术奖（技术发明类）一等奖: 大规模云网络基础设施智能运维关键技术 (15/15), 中国通信学会， 2022.
+- CCF科技成果奖（技术发明类）二等奖：数智融合的一体化大规模云网络运维关键技术及系统 (3/6), 中国计算机学会, 2023.
+- 中国通信学会科学技术奖（技术发明类）一等奖: 大规模云网络基础设施智能运维关键技术 (15/15), 中国通信学会, 2022.
 - ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [公告链接](https://www.sigcomm.org/content/sigcomm-networking-systems-award).
 - 清华大学计算机科学与技术系优秀毕业生，清华大学，2019.
 - IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [公告链接](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
