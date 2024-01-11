@@ -16,7 +16,7 @@ layout: default
 
 **招生公告**: 我们的团队正在寻找博士生、硕士生和本科生加入我们。感兴趣的同学请联系团队负责人[杨家海教授](http://nmgroup.tsinghua.edu.cn/yjh/)。
 
-**个人主页**: [英文版个人主页](https://tsinghuadong.github.io/)，[谷歌学术主页](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en)，[清华网研院个人主页](https://www.insc.tsinghua.edu.cn/info/1157/2447.htm)
+**个人主页**: [英文版个人主页](https://tsinghuadong.github.io/)，[谷歌学术主页](https://scholar.google.com/citations?user=hAoz57UAAAAJ&hl=en)，[DBLP主页](https://dblp.org/pid/139/2623.html), [清华网研院个人主页](https://www.insc.tsinghua.edu.cn/info/1157/2447.htm)
 
 # 教育经历
 
@@ -43,10 +43,11 @@ layout: default
 
 * * *
 
+- Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
 - **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, available online.
 - Jia Zhang; Yixuan Zhang; **Enhuan Dong**; Yan Zhang; Shaorui Ren; Zili Meng; Mingwei Xu; Xiaotian Li; Zongzhi Hou; Zhicheng Yang; Xiaoming Fu; Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX Annual Technical Conference (USENIX ATC, TH-CPL A, CCF A), Boston, MA, USA, 2023-7-10 to 2023-7-12.
 - Renjie Xie; Jiahao Cao; **Enhuan Dong**; Mingwei Xu; Kun Sun; Qi Li; Licheng Shen; Menghao Zhang; Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation, USENIX Security Symposium (USENIX Security, TH-CPL A, CCF A), Anaheim, CA, USA, 2023-8-9 to 2023-8-11.
-- Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, available online.
+- Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, 31(5): 2162-2177.
 - Jia Zhang; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; WiseTrans: Adaptive Transport Protocol Selection for Mobile Web Service, The Web Conference (WWW, TH-CPL A, CCF A), Virtual Edition, 2021-4-19 to 2021-4-23.
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; Low-Cost Datacenter Load Balancing with Multipath Transport and Top-of-Rack Switches, IEEE Transactions on Parallel and Distributed Systems (TPDS, TH-CPL A, CCF A), 2020, 31(10): 2232-2247.
 - 李星; Geoff Huston; 徐明伟; 杨芫; **董恩焕**; 李崇荣; 张海懿; 姚健康; 互联网十年发展回顾（2008-2018）, CCF 2018-2019 中国计算机科学技术发展报告, 2019.
@@ -73,11 +74,9 @@ layout: default
 
 * * *
 
-- **学会委员会委员**
-  - 中国指挥与控制学会网络空间测绘专业委员会委员
-
 - **学术会议程序委员会委员**
-  - [International Conference on Network of the Future](https://nof.dnac.org/tpc/) (NoF), 2023
+  - [International Conference on Distributed Computing Systems (ICDCS) 2024](https://icdcs2024.icdcs.org/)
+  - [International Conference on Network of the Future (NoF) 2023](https://nof.dnac.org/tpc/)
 
 - **期刊/杂志审稿人**
   - IEEE/ACM Transactions on Networking (TON)
@@ -93,6 +92,10 @@ layout: default
 - **会议审稿人**
   - IEEE International Conference on Computer Communications (INFOCOM), 2018
   - IEEE International Conference on Network Protocols (ICNP), 2017
+
+- **学会委员会委员**
+  - 中国计算机学会互联网专业委员会委员
+  - 中国指挥与控制学会网络空间测绘专业委员会委员
 
 # 教学工作
 
