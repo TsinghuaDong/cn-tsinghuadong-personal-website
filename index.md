@@ -75,8 +75,8 @@ layout: default
 * * *
 
 - **学术会议程序委员会委员**
-  - [International Conference on Distributed Computing Systems (ICDCS) 2024](https://icdcs2024.icdcs.org/)
-  - [International Conference on Network of the Future (NoF) 2023](https://nof.dnac.org/2023/tpc/)
+  - [International Conference on Distributed Computing Systems (ICDCS), 2024](https://icdcs2024.icdcs.org/)
+  - [International Conference on Network of the Future (NoF), 2023](https://nof.dnac.org/2023/tpc/)
 
 - **期刊/杂志审稿人**
   - IEEE/ACM Transactions on Networking (TON)
