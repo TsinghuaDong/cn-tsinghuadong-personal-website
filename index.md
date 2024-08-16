@@ -45,7 +45,7 @@ layout: default
 
 - Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
 - Jia Zhang; Haixuan Tong; **Enhuan Dong**; Xin Qian; Mingwei Xu; Xiaotian Li; Zili Meng; Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference (WWW, TH-CPL A, CCF A), Singapore, 2024-5-13 to 2024-5-17.
-- **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, available online.
+- **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, 237, 110047.
 - Jia Zhang; Yixuan Zhang; **Enhuan Dong**; Yan Zhang; Shaorui Ren; Zili Meng; Mingwei Xu; Xiaotian Li; Zongzhi Hou; Zhicheng Yang; Xiaoming Fu; Bridging the Gap between QoE and QoS in Congestion Control: A Large-scale Mobile Web Service Perspective, USENIX Annual Technical Conference (USENIX ATC, TH-CPL A, CCF A), Boston, MA, USA, 2023-7-10 to 2023-7-12.
 - Renjie Xie; Jiahao Cao; **Enhuan Dong**; Mingwei Xu; Kun Sun; Qi Li; Licheng Shen; Menghao Zhang; Rosetta: Enabling Robust TLS Encrypted Traffic Classification in Diverse Network Environments with TCP-Aware Traffic Augmentation, USENIX Security Symposium (USENIX Security, TH-CPL A, CCF A), Anaheim, CA, USA, 2023-8-9 to 2023-8-11.
 - Jia Zhang; Shaorui Ren; **Enhuan Dong**; Zili Meng; Yuan Yang; Mingwei Xu; Sijie Yang; Miao Zhang; Yang Yue; Reducing Mobile Web Latency Through Adaptively Selecting Transport Protocol, IEEE/ACM Transactions on Networking (TON, TH-CPL A, CCF A), 2023, 31(5): 2162-2177.
@@ -54,7 +54,7 @@ layout: default
 - 李星; Geoff Huston; 徐明伟; 杨芫; **董恩焕**; 李崇荣; 张海懿; 姚健康; 互联网十年发展回顾（2008-2018）, CCF 2018-2019 中国计算机科学技术发展报告, 2019.
 - **Enhuan Dong**; Mingwei Xu; Xiaoming Fu; Yu Cao; A Loss Aware MPTCP Scheduler for Highly Lossy Networks, Elsevier Computer Networks (COMNET, TH-CPL B, CCF B), 2019, 157: 146-158.
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; DCMPTCP: Host-based Load Balancing for Datacenters, IEEE International Conference on Distributed Computing Systems (ICDCS, TH-CPL B, CCF B), Vienna, 2018-7-2 to 2018-7-5.
-- Yu Cao; Mingwei Xu; Xiaoming Fu; **Enhuan Dong**; Explicit Multipath Congestion Control for Data Center Networks, ACM International Conference on emerging Networking EXperiments and Technologies (CoNEXT, TH-CPL A, CCF B), Santa Barbara, California, USA, 2013-12-9 to 2013-12-12.
+
 
 # 部分获奖情况
 
@@ -80,14 +80,19 @@ layout: default
   - International Conference on Big Data Computing and Communications (BIGCOM) [2024](https://bigcom2024.com/)
   - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/)
 
+- **学术期刊编辑委员会**
+  - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
+
 - **期刊/杂志审稿人**
   - IEEE/ACM Transactions on Networking (TON)
   - IEEE Transactions on Parallel and Distributed Systems (TPDS)
   - IEEE Journal on Selected Areas in Communications (JSAC)
   - IEEE Transactions on Network and Service Management (TNSM)
+  - Elsevier Computer Networks (COMNET)
   - Elsevier Computer Communications (COMCOM)
   - Journal of Network and Computer Applications (JNCA)
   - Elsevier Future Generation Computer Systems (FGCS)
+  - Frontiers of Information Technology & Electronic Engineering (FITEE)
   - IEEE Network
   - Journal of Systems Architecture (JSA)
   - Physica A
@@ -114,13 +119,13 @@ layout: default
 - **本科生班主任，清华大学**
   - 计26班；2022.8-2026.7
 
-- **助教，清华大学**
+<!-- - **助教，清华大学**
   - 计算机网络体系结构；2015年秋
   - 网络原理；2014年秋
   - 网络专题训练；2013年秋，2014年春，2015年春
 
 - **助教，哥廷根大学**
-  - 互联网技术研讨会；2016年秋，2017年春
+  - 互联网技术研讨会；2016年秋，2017年春 -->
 
 # 相关链接
 
@@ -128,6 +133,7 @@ layout: default
 
 - [计算机科学顶级会议](http://csrankings.org/#/index?all&world) (CSRankings)
 - [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/Academic_Evaluation/By_category/) (CCF)
+- [中国计算机学会推荐国际学术会议截稿时间](https://ccfddl.top/)
 - [清华大学计算机学科群推荐学术会议和期刊列表](http://numbda.cs.tsinghua.edu.cn/~yuwj/TH-CPL.pdf) (TH-CPL)
 
 
