@@ -60,9 +60,10 @@ layout: default
 
 * * *
 
+- 未来网络领先创新科技成果：超大规模云网络智能运维系统 (4/7), 未来网络发展大会, 2024.
 - CCF科技成果奖（技术发明类）二等奖：数智融合的一体化大规模云网络运维关键技术及系统 (3/6), 中国计算机学会, 2023.
 - 中国通信学会科学技术奖（技术发明类）一等奖: 大规模云网络基础设施智能运维关键技术 (15/15), 中国通信学会, 2022.
-- ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [公告链接](https://www.sigcomm.org/content/sigcomm-networking-systems-award).
+- ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [公告链接](https://www.sigcomm.org/awards/sigcomm-networking-systems-award).
 - 清华大学计算机科学与技术系优秀毕业生，清华大学，2019.
 - IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [公告链接](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
 - 国家留学基金，联合培养博士研究生，2016.
@@ -75,12 +76,20 @@ layout: default
 
 * * *
 
+- **学会委员会委员**
+  - 中国计算机学会互联网专业委员会委员
+  - 中国指挥与控制学会网络空间测绘专业委员会委员
+
+- **学术会议程序委员会领域主席**
+  - International Conference on Big Data Computing and Communications (BIGCOM) [2025](https://www.bigcom2025.com/)
+
 - **学术会议程序委员会委员**
+  - IEEE International Conference on Communications (ICC) [2025](https://icc2025.ieee-icc.org/)
   - IEEE International Conference on Distributed Computing Systems (ICDCS) [2024](https://icdcs2024.icdcs.org/)
   - International Conference on Big Data Computing and Communications (BIGCOM) [2024](https://bigcom2024.com/)
-  - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/)
+  - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/2024/), [2025](https://nof.dnac.org/)
 
-- **学术期刊编辑委员会**
+- **学术期刊编辑委员会编委**
   - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
 
 - **期刊/杂志审稿人**
@@ -94,8 +103,11 @@ layout: default
   - Elsevier Future Generation Computer Systems (FGCS)
   - Frontiers of Information Technology & Electronic Engineering (FITEE)
   - IEEE Network
+  - SCIENTIA SINICA Informationis
   - Journal of Systems Architecture (JSA)
   - Physica A
+  - Springer Cybersecurity
+  - IEEE Open Journal of the Communications Society
   - IEEE Communications Letters
   - CCF Transactions on Networking (CTON)
 
@@ -108,9 +120,7 @@ layout: default
   - IEEE International Conference on Network Softwarization (NetSoft) 2021
   - International Conference on Network and Service Management (CNSM) 2021
 
-- **学会委员会委员**
-  - 中国计算机学会互联网专业委员会委员
-  - 中国指挥与控制学会网络空间测绘专业委员会委员
+
 
 # 教学工作
 
