@@ -10,7 +10,7 @@ layout: default
 1990年出生于河北省，2013年本科毕业于哈尔滨工业大学计算机科学与技术学院，2019年博士毕业于清华大学计算机科学与技术系（导师：[徐明伟教授](http://routing.netlab.edu.cn/)），2021年7月于清华大学计算机科学与技术系博士后出站（合作导师：[徐明伟教授](http://routing.netlab.edu.cn/)）。
 2016年公派赴德，在哥廷根大学作访问学生（导师：Prof. Xiaoming Fu）。
 
-**研究兴趣**：网络空间安全态势感知、网络空间测绘与抗测绘、网络运维、网络端到端传送。
+**研究兴趣**：网络测量、网络空间测绘、网络空间安全态势感知、网络运维、网络端到端传送。
 
 **邮箱**: dongenhuan \[AT\] tsinghua \[dot\] edu \[dot\] cn
 
@@ -43,6 +43,9 @@ layout: default
 
 * * *
 
+- Xin He; **Enhuan Dong**; Jiyuan Han; Zhiliang Wang; Hui Zhang; Liang Liu; Lianyi Sun; Supei Zhang; Pengfei Xue; Guanglei Song; Han Li; Xiaowen Quan; Jiahai Yang; ScannerGrouper: A Generalizable and Effective Scanning Organization Identification System Toward the Open World, ACM Conference on Computer and Communications Security (ACM CCS, TH-CPL A, CCF A), Taipei, Taiwan, China, 2025-10-13 to 2025-10-17.
+- **Enhuan Dong**; Jiahai Yang; Zhiliang Wang; Xin He; Jie Fang; Shenao Li; Supei Zhang; Zeyuan Guo; Hui Zhang; Zimu Li; Xiaoming Fu; Internet Scan Source Identification: A Survey, IEEE Network, 2025, online.
+- Shaorui Ren; Jia Zhang; **Enhuan Dong**; Mingwei Xu; Yixuan Zhang; Jiahao Cao; Jianping Wu; Undermining Delay-based QUIC Congestion Control: A Receiver-driven Attack via Crafted Host Delays, IEEE International Conference on Network Protocols (IEEE ICNP, TH-CPL A, CCF B), Seoul, South Korea, 2025-9-22 to 2025-9-25.
 - Xin He; **Enhuan Dong**; Jiahai Yang; Shize Zhang; Zhiliang Wang; Zejie Wang; Ye Yang; Jun Zhou; Xiaoqing Sun; Enge Song; Jianyuan Lu; Biao Lyu; Shunmin Zhu; CloudPlanner: Minimizing Upgrade Risk of Virtual Network Devices for Large-Scale Cloud Networks, IEEE Conference on Computer Communications (IEEE INFOCOM, TH-CPL A, CCF A), Vancouver, Canada, 2024-5-20 to 2024-5-24.
 - Jia Zhang; Haixuan Tong; **Enhuan Dong**; Xin Qian; Mingwei Xu; Xiaotian Li; Zili Meng; Cold Start or Hot Start? Robust Slow Start in Congestion Control with A Priori Knowledge for Mobile Web Services, The Web Conference (WWW, TH-CPL A, CCF A), Singapore, 2024-5-13 to 2024-5-17.
 - **Enhuan Dong**; Peng Gao; Yuan Yang; Mingwei Xu; Xiaoming Fu; Jiahai Yang; SmartSBD: Smart Shared Bottleneck Detection for Efficient Multipath Congestion Control over Heterogeneous Networks, Computer Networks (COMNET, TH-CPL B, CCF B), 2023, 237, 110047.
@@ -63,7 +66,7 @@ layout: default
 - 未来网络领先创新科技成果：超大规模云网络智能运维系统 (4/7), 未来网络发展大会, 2024.
 - CCF科技成果奖（技术发明类）二等奖：数智融合的一体化大规模云网络运维关键技术及系统 (3/6), 中国计算机学会, 2023.
 - 中国通信学会科学技术奖（技术发明类）一等奖: 大规模云网络基础设施智能运维关键技术 (15/15), 中国通信学会, 2022.
-- ACM SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [公告链接](https://www.sigcomm.org/awards/sigcomm-networking-systems-award).
+- SIGCOMM Networking Systems Award: Multipath TCP implementation in the Linux kernel (52/58), ACM SIGCOMM, 2019-8. [公告链接](https://www.sigcomm.org/awards/sigcomm-networking-systems-award).
 - 清华大学计算机科学与技术系优秀毕业生，清华大学，2019.
 - IEEE LCN Best Paper Candidates (1/4), IEEE LCN, 2017-10. [公告链接](https://www.ieeelcn.org/prior/LCN42/Program_technical.html#S1569545642).
 - 国家留学基金，联合培养博士研究生，2016.
@@ -91,6 +94,7 @@ layout: default
 
 - **学术期刊编辑委员会编委**
   - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
+  - Mathematics, [Special Issue on Mathematical Foundations and Innovations in Networked Cloud-Edge Systems: Security, Storage and Optimization](https://www.mdpi.com/journal/mathematics/special_issues/Math_Found_Innov_Netw_Cloud_Edge_Syst_Secur_Storage_Optim) (Guest Editors: Yong Wang, Mu Wang, **Enhuan Dong**), 2026
 
 - **期刊/杂志审稿人**
   - IEEE/ACM Transactions on Networking (TON)
@@ -114,6 +118,7 @@ layout: default
 - **会议审稿人**
   - IEEE International Conference on Computer Communications (INFOCOM) 2018
   - IEEE International Conference on Network Protocols (ICNP) 2017
+  - ACM Multimedia (MM) 2025
   - IEEE Global Communications Conference (Globecom) 2016, 2017, 2022
   - IEEE International Conference on Computer Communications and Networks (ICCCN) 2017
   - IEEE Symposium on Computers and Communications (ISCC) 2017, 2020
