@@ -95,7 +95,7 @@ layout: default
 
 - **学术期刊编辑委员会编委**
   - Frontiers in Computer Science, [Research Topic on Design and Optimization of Distributed Computing/Storage Systems Driven by Novel Intelligent Networking Technologies](https://www.frontiersin.org/research-topics/63510/design-and-optimization-of-distributed-computingstorage-systems-driven-by-novel-intelligent-networking-technologies) (Topic Editors: Yong Wang, Mu Wang, **Enhuan Dong**, Qian He), 2024
-  - Mathematics, [Special Issue on Mathematical Foundations and Innovations in Networked Cloud-Edge Systems: Security, Storage and Optimization](https://www.mdpi.com/journal/mathematics/special_issues/Math_Found_Innov_Netw_Cloud_Edge_Syst_Secur_Storage_Optim) (Guest Editors: Yong Wang, Mu Wang, **Enhuan Dong**), 2026
+  <!-- - Mathematics, [Special Issue on Mathematical Foundations and Innovations in Networked Cloud-Edge Systems: Security, Storage and Optimization](https://www.mdpi.com/journal/mathematics/special_issues/Math_Found_Innov_Netw_Cloud_Edge_Syst_Secur_Storage_Optim) (Guest Editors: Yong Wang, Mu Wang, **Enhuan Dong**), 2026 -->
 
 - **期刊/杂志审稿人**
   - IEEE/ACM Transactions on Networking (TON)
