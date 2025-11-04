@@ -131,7 +131,7 @@ layout: default
 
 * * *
 
-- 长期运行的ScannerGrouper[Link](https://tsinghuadong.github.io/scannergrouper-long-term-operation/)
+- 长期运行的ScannerGrouper。[链接](https://tsinghuadong.github.io/scannergrouper-long-term-operation/)。
 
 
 # 教学工作
