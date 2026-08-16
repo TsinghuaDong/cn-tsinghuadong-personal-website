@@ -66,6 +66,7 @@ layout: default
 
 * * *
 
+- 杰出服务奖，BIGCOM 2026.
 - 未来网络领先创新科技成果：超大规模云网络智能运维系统 (4/7), 未来网络发展大会, 2024.
 - CCF科技成果奖（技术发明类）二等奖：数智融合的一体化大规模云网络运维关键技术及系统 (3/6), 中国计算机学会, 2023.
 - 中国通信学会科学技术奖（技术发明类）一等奖: 大规模云网络基础设施智能运维关键技术 (15/15), 中国通信学会, 2022.
@@ -94,8 +95,8 @@ layout: default
 - **学术会议程序委员会委员**
   - ACM Multimedia (MM) [2026](https://2026.acmmm.org/)
   - IEEE International Conference on Distributed Computing Systems (ICDCS) [2024](https://icdcs2024.icdcs.org/), [2026](https://icdcs2026.icdcs.org/)
+  - The International Web Information Systems Engineering conference (WISE) [2026](https://conferences.sigappfr.org/wise2026/)
   - IEEE International Conference on Communications (ICC) [2025](https://icc2025.ieee-icc.org/), [2026](https://icc2026.ieee-icc.org/)
-  - The International Web Information Systems Engineering conference [2026](https://conferences.sigappfr.org/wise2026/)
   - International Conference on Network of the Future (NoF) [2023](https://nof.dnac.org/2023/), [2024](https://nof.dnac.org/2024/), [2025](https://nof.dnac.org/2025/), [2026](https://nof.dnac.org/2026/)
   - International Conference on Big Data Computing and Communications (BIGCOM) [2024](https://bigcom2024.com/)
 
