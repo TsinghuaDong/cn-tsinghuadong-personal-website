@@ -61,6 +61,11 @@ layout: default
 - **Enhuan Dong**; Mingwei Xu; Xiaoming Fu; Yu Cao; A Loss Aware MPTCP Scheduler for Highly Lossy Networks, Elsevier Computer Networks (COMNET, TH-CPL B, CCF B), 2019, 157: 146-158.
 - **Enhuan Dong**; Xiaoming Fu; Mingwei Xu; Yuan Yang; DCMPTCP: Host-based Load Balancing for Datacenters, IEEE International Conference on Distributed Computing Systems (ICDCS, TH-CPL B, CCF B), Vienna, 2018-7-2 to 2018-7-5.
 
+# 专著
+
+* * *
+
+- 罗向阳, 袁福祥, **董恩焕**, 李子木, 王杰, 2026.7. 抗网络扫描探测与识别技术. 北京: 科学出版社.（ISBN 978-7-03-086421-5）
 
 # 部分获奖情况
 
@@ -112,6 +117,7 @@ layout: default
   - IEEE Transactions on Dependable and Secure Computing (TDSC)
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Network and Service Management (TNSM)
+  - IEEE Transactions on Cloud Computing (TCC)
   - Elsevier Computer Networks (COMNET)
   - Elsevier Computer Communications (COMCOM)
   - Journal of Network and Computer Applications (JNCA)
